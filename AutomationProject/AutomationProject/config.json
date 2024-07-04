@@ -1,0 +1,24 @@
+{
+  "ApplicationSettings": {
+    "Url": "https://miacademy.co/#/"
+  },
+  "ParentInformation": {
+    "FirstName": "Hammad Ali",
+    "LastName": "khan",
+    "Email": "hammadalik01@gmail.com",
+    "PhoneNumber": "1234567890"
+  },
+  "StudentInformation": {
+    "FirstName": "Jhon",
+    "LastName": "King",
+    "Nickname": "jhoni",
+    "Email": "jhontw@mailinator.com",
+    "PhoneNumber": "+49123456789",
+    "Birthdate": "16-04-1992",
+    "Gender": "Male",
+    "MiaPrepAccountOption": "No",
+    "StudentType": "Homeschool",
+    "Interest": "Performing Arts",
+    "LearningNeedsOption": "No"
+  }
+}
